@@ -1,0 +1,26 @@
+[
+  {
+    "date": "04-04-2026",
+    "category": "Food",
+    "amount": 10.0,
+    "description": "Lunch at cafeteria"
+  },
+  {
+    "date": "05-04-2026",
+    "category": "Travel",
+    "amount": 20.0,
+    "description": "Travelling to Client's office"
+  },
+  {
+    "date": "04-05-2026",
+    "category": "Courses",
+    "amount": 30.0,
+    "description": "Certification Courses"
+  },
+  {
+    "date": "05-05-2026",
+    "category": "other",
+    "amount": 25.0,
+    "description": "Wifi bill"
+  }
+]
